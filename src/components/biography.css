@@ -1,0 +1,17 @@
+a {
+    padding: 20px;
+}
+
+.innerBio {
+    display: inline-block; 
+    width: 50%;
+    font-size: 32px;
+}
+
+.outerBio {
+    text-align: center;
+}
+
+.aStyle {
+    display: block;
+}

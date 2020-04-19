@@ -1,0 +1,9 @@
+.foot {
+    float: left;
+    width: 33.33%;
+}
+
+.foot li {
+    text-decoration: none;
+    list-style-type: none;
+}
