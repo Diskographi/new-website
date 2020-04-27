@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/new-website/static/css/main.ae65d989.chunk.css",
-    "main.js": "/new-website/static/js/main.c7ec28ee.chunk.js",
-    "main.js.map": "/new-website/static/js/main.c7ec28ee.chunk.js.map",
+    "main.css": "/new-website/static/css/main.bbe73c88.chunk.css",
+    "main.js": "/new-website/static/js/main.ae49e254.chunk.js",
+    "main.js.map": "/new-website/static/js/main.ae49e254.chunk.js.map",
     "runtime-main.js": "/new-website/static/js/runtime-main.da8d13fe.js",
     "runtime-main.js.map": "/new-website/static/js/runtime-main.da8d13fe.js.map",
     "static/css/2.40a775a0.chunk.css": "/new-website/static/css/2.40a775a0.chunk.css",
-    "static/js/2.055bfefd.chunk.js": "/new-website/static/js/2.055bfefd.chunk.js",
-    "static/js/2.055bfefd.chunk.js.map": "/new-website/static/js/2.055bfefd.chunk.js.map",
+    "static/js/2.a9f11957.chunk.js": "/new-website/static/js/2.a9f11957.chunk.js",
+    "static/js/2.a9f11957.chunk.js.map": "/new-website/static/js/2.a9f11957.chunk.js.map",
     "index.html": "/new-website/index.html",
-    "precache-manifest.fb2cd3ff39c1509ef17c2c9f9134a635.js": "/new-website/precache-manifest.fb2cd3ff39c1509ef17c2c9f9134a635.js",
+    "precache-manifest.1d53f48f2ec1c119bda89e7ae4c01157.js": "/new-website/precache-manifest.1d53f48f2ec1c119bda89e7ae4c01157.js",
     "service-worker.js": "/new-website/service-worker.js",
     "static/css/2.40a775a0.chunk.css.map": "/new-website/static/css/2.40a775a0.chunk.css.map",
-    "static/css/main.ae65d989.chunk.css.map": "/new-website/static/css/main.ae65d989.chunk.css.map",
-    "static/js/2.055bfefd.chunk.js.LICENSE.txt": "/new-website/static/js/2.055bfefd.chunk.js.LICENSE.txt",
+    "static/css/main.bbe73c88.chunk.css.map": "/new-website/static/css/main.bbe73c88.chunk.css.map",
+    "static/js/2.a9f11957.chunk.js.LICENSE.txt": "/new-website/static/js/2.a9f11957.chunk.js.LICENSE.txt",
     "static/media/App.css": "/new-website/static/media/80sbackground.b0f6f27d.jpg",
+    "static/media/big_icon.jpg": "/new-website/static/media/big_icon.4934b76c.jpg",
     "static/media/website_cover.png": "/new-website/static/media/website_cover.8e8bab06.png"
   },
   "entrypoints": [
     "static/js/runtime-main.da8d13fe.js",
     "static/css/2.40a775a0.chunk.css",
-    "static/js/2.055bfefd.chunk.js",
-    "static/css/main.ae65d989.chunk.css",
-    "static/js/main.c7ec28ee.chunk.js"
+    "static/js/2.a9f11957.chunk.js",
+    "static/css/main.bbe73c88.chunk.css",
+    "static/js/main.ae49e254.chunk.js"
   ]
 }
