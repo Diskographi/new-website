@@ -1,15 +1,20 @@
 .App {
   text-align: center;
+  background-image: linear-gradient(to bottom, #0574e0, #d810d3);
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
   border-radius: 150px;
+  border: 5px solid white
 }
 
 .App-header {
+  background-image: url('80sbackground.jpg');
   background-color: #282c34;
+  background-size: auto;
+  background-position: center;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

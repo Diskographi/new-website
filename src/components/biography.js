@@ -7,8 +7,7 @@ const bioStyle = {
 
 const innerStyle = {
     display: 'inline-block', 
-    width: '50%',
-    fontSize: '32px'
+    width: '50%'
 }
 
 const english = <div className="innerBio">
@@ -26,10 +25,7 @@ const english = <div className="innerBio">
 
 const japanese = <div className="innerBio">
 <h2> ウェブデザイン </h2>
-<p>はじめまして。私の名前はコーディーと申します。２０１６年からプログラミングを勉強しております
-　　授業を受けないで自分からは色々な取材を利用して就業します。JavaScriptの基本的な構図を学ん
-　　でからたくさんのフレームワークを習うことにしました。例えば：Angular 1.X や React JS。
-　　尚にNode JS と Express JS を使ってサーバーに繋がれるミドルウェアを書くことが可能です。
+<p>はじめまして。私の名前はコーディーと申します。２０１６年からプログラミングを勉強しております。授業を受けないで自分からは色々な取材を利用して修業します。JavaScriptの基本的な構図を学んでからたくさんのフレームワークを習うことにしました。例えば：Angular 1.X や React JS。尚にNode JS と Express JS を使ってサーバーに繋がれるミドルウェアを書くことが可能です。
  毎日喜んでコーディングをしていて色々な仕事に関する問題を解いております。
    未来の同僚と協力するのをお楽しみにしております！
    よろしくお願いいたします。

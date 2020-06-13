@@ -4,8 +4,9 @@ a {
 
 .innerBio {
     display: inline-block; 
-    width: 50%;
-    font-size: 32px;
+    width: 65%;
+    font-size: 3vmax;
+    color: white;
 }
 
 .outerBio {

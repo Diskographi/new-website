@@ -11,11 +11,11 @@ export class Footer extends React.Component {
 
     render() {
         return <div>
-            <footer>
+            <footer style={{background: "black"}}>
             <div className="foot">    
             <h3>Posted by: Cody Hill</h3>
   <p>Contact information: <a href="mailto:william.cody.hill@gmail.com">
-  william.cody.hill@gmail.com</a>.</p>
+  william.cody.hill@gmail.com</a></p>
             <h3>GitHub</h3>
             <p><a href="https://github.com/Diskographi" target="_blank">Diskographi</a></p>
             </div>
@@ -25,9 +25,10 @@ export class Footer extends React.Component {
             <div className="foot">
               <h3>Site Map</h3>
               <ul>
-                <li><a href="Home">Home</a></li>
-                <li><a href="Bio">Bio</a></li>
-                <li><a href="Gallery">Gallery</a></li>  
+                <li><a href="#/Home">Home</a></li>
+                <li><a href="#/Bio">Bio</a></li>
+                <li><a href="#/Gallery">Gallery</a></li>
+                <li><a href="#/Projects">Projects</a></li>   
               </ul>
             </div>
             </footer>

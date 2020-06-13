@@ -9,6 +9,10 @@ const imgStyle = {
 
 const images = [
     {
+      original: 'https://i.imgur.com/6doiM8y.jpeg',
+      thumbnail: 'https://i.imgur.com/6doiM8y.jpeg',
+    },
+    {
       original: 'https://d.facdn.net/art/rakkantekicoyote/1441774323/1441774323.rakkantekicoyote_felixregression.png',
       thumbnail: 'https://t.facdn.net/17631001@150-1441774323.jpg',
     },
@@ -28,7 +32,7 @@ export class Gallery extends React.Component {
     }
 
     render() {
-        return <div style={imgStyle}>
+        return <div className="galleryBox" style={imgStyle}>
         <ImageGallery items={images}/>
         </div>
     }

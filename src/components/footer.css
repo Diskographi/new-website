@@ -1,9 +1,23 @@
+footer {
+    background-image: linear-gradient(to right, red , yellow);
+    background-size: 100% 100%;
+}
+
 .foot {
     float: left;
     width: 33.33%;
+    background-color: #282c34;
+    color: white;
+    height: 35vh;
 }
 
 .foot li {
     text-decoration: none;
     list-style-type: none;
+    padding: 10px 2px;
+    color: white;
+}
+
+a {
+    color: #61dafb;
 }
